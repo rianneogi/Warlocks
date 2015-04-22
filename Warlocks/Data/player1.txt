@@ -1,0 +1,10 @@
+AbyssZombie
+IronSoldier
+HarvestorOfSouls
+Warbringer
+Deathbringer
+Faithbringer
+SuicideDrone
+LandMine
+FireBolt
+Explode

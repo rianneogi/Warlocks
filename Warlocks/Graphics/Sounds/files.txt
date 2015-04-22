@@ -1,0 +1,17 @@
+endturn.wav
+Attack.wav
+Summon.wav
+Paralyze.wav
+Disarm.wav
+Silence.wav
+Sleep.wav
+Boost.wav
+Heal.wav
+LightHeal.wav
+Dispel.wav
+Fire.wav
+Frost.wav
+LightningBolt.wav
+Shock.wav
+Rupture.wav
+Poison.wav
